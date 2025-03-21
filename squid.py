@@ -1,3 +1,4 @@
+#this is a game
 import random
  
 num = random.randint(1, 3)
