@@ -1,4 +1,5 @@
 #this is a game
+print("welcome to squad games")
 import random
  
 num = random.randint(1, 3)
